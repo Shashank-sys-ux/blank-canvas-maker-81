@@ -1,0 +1,19 @@
+project_id = "oujchkohfzactdparwuh"
+
+[functions.validate-idea]
+verify_jwt = true
+
+[functions.generate-roadmap]
+verify_jwt = true
+
+[functions.match-mentors]
+verify_jwt = true
+
+[functions.generate-pitch-deck]
+verify_jwt = true
+
+[functions.aura-chat]
+verify_jwt = true
+
+[functions.verify-proof]
+verify_jwt = false
